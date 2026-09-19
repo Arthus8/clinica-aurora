@@ -12,10 +12,10 @@ Landing page estática para uma **clínica fictícia**, desenvolvida com HTML, C
 
 | Campo | Preencher antes da entrega |
 |---|---|
-| Aluno(a) | PENDENTE |
-| Matrícula | PENDENTE |
-| Disciplina | PENDENTE |
-| Professor(a) | PENDENTE |
+| Aluno(a) | Arthus Cesar Dias Fernandes |
+| Matrícula | 72601539 |
+| Disciplina | Programação e Desenvolvimento Web |
+| Professor(a) | Everson Andrade dos Reis |
 | Repositório | PENDENTE — link real após publicação |
 | Vídeo de até 5 minutos | PENDENTE — link real após gravação e publicação |
 | Site online (opcional) | PENDENTE — link real após implantação |
